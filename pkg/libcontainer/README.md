@@ -85,7 +85,7 @@ Sample `container.json` file:
       { "key": "NEWUTS" },
       { "key": "NEWIPC" },
       { "key": "NEWPID" },
-      { "key": "NEWNET }"
+      { "key": "NEWNET" }"
    ]
 }
 ```
